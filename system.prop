@@ -1,0 +1,16 @@
+# Audio
+af.fast_track_multiplier=1
+audio_hal.disable_two_mic=true
+
+# Exynos
+debug.hwc.force_gpu=1
+
+# Wifi
+wifi.interface=wlan0
+
+# misc
+ro.chipname=exynos7870
+ro.arch=exynos7870
+
+# Strict Mode
+persist.sys.strictmode.disable=true
